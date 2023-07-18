@@ -5,8 +5,8 @@ import 'package:provider/provider.dart';
 
 import '../../controller/theme_controller.dart';
 
-class FavouriteScreen extends StatelessWidget {
-  const FavouriteScreen({super.key});
+class favPage extends StatelessWidget {
+  const favPage({super.key});
 
   @override
   Widget build(BuildContext context) {

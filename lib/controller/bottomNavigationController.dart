@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 
-import '../views/screens/chapter_screen.dart';
-import '../views/screens/favourite_screen.dart';
+import '../views/screens/adhyayPage.dart';
+import '../views/screens/favPage.dart';
 
 class BottomNavigationController extends ChangeNotifier {
   int selectedIndex = 0;
@@ -12,7 +12,7 @@ class BottomNavigationController extends ChangeNotifier {
   }
 
   List allScreen = const [
-    ChapterScreen(),
-    FavouriteScreen(),
+    AdyayPage(),
+    favPage(),
   ];
 }

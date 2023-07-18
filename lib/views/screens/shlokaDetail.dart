@@ -8,8 +8,8 @@ import 'package:share_plus/share_plus.dart';
 
 import '../../controller/language_controller.dart';
 
-class VerseDetailScreen extends StatelessWidget {
-  const VerseDetailScreen({super.key});
+class ShlokaDetail extends StatelessWidget {
+  const ShlokaDetail({super.key});
 
   @override
   Widget build(BuildContext context) {

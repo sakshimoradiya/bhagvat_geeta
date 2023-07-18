@@ -6,8 +6,8 @@ import 'package:provider/provider.dart';
 
 import '../../model/chapter_model.dart';
 
-class ChapterScreen extends StatelessWidget {
-  const ChapterScreen({super.key});
+class AdyayPage extends StatelessWidget {
+  const AdyayPage({super.key});
 
   @override
   Widget build(BuildContext context) {

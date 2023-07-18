@@ -8,8 +8,8 @@ import 'package:dots_indicator/dots_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-class ChDetailScreen extends StatelessWidget {
-  const ChDetailScreen({super.key});
+class DetailPage extends StatelessWidget {
+  const DetailPage({super.key});
 
   @override
   Widget build(BuildContext context) {
